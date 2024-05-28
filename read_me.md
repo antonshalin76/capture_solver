@@ -30,7 +30,7 @@ pip install -r requirements.txt
     "vosk_model_en": "C:/Users/anton/Vosk/vosk-model-en-us-0.22",
     "vosk_model_ru": "C:/Users/anton/Vosk/vosk-model-ru-0.10"
 }
-
+```
 
 ## Запуск
 Запустите скрипт в консоли:
