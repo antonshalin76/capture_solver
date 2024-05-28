@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ## Запуск
-Запустите скрипт в консоли:
+Запустите скрипт в консоли (пример настроек):
 
 ```sh
 python Modif_STT_ru_en.py --speed 1.25 --volume 3.0 --language ru --file /path/to/chacky.wav --config config.json
